@@ -12,7 +12,7 @@
 
 [![Workshop](https://img.shields.io/badge/ICLR_2026_Workshop-Principled_Design_for_Trustworthy_AI-blue.svg)](#)
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"/></a>
-[![Paper](https://img.shields.io/badge/Omni-Patch-red.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/Omni-Patch-red.svg)](https://arxiv.org/abs/2603.20777)
 
 </div>
 
