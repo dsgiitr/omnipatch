@@ -19,7 +19,7 @@
 ---
 
 ## Abstract
-Robust semantic segmentation is crucial for safe autonomous driving, yet deployed models remain vulnerable to black-box adversarial attacks when target weights are unknown. Most existing approaches either craft image-wide perturbations or optimize patches for a single architecture, which limits their practicality and transferability. We introduce \textbf{OmniPatch}, a training framework for learning a \emph{universal adversarial patch} that generalizes across images and both ViT and CNN architectures without requiring access to target model parameters.
+Robust semantic segmentation is crucial for safe autonomous driving, yet deployed models remain vulnerable to black-box adversarial attacks when target weights are unknown. Most existing approaches either craft image-wide perturbations or optimize patches for a single architecture, which limits their practicality and transferability. We introduce **OmniPatch**, a training framework for learning a ***universal adversarial patch*** that generalizes across images and both ViT and CNN architectures without requiring access to target model parameters.
 
 ---
 
