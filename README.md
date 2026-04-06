@@ -115,14 +115,15 @@ This project is licensed under the terms of the **MIT License**.
 See the [LICENSE](LICENSE) file for full license text.
 
 ---
-<!-- 
 ## Citation
 If you find this work useful, please consider citing it as:
 ```bibtex
-@inproceedings{aggarwal2026omnipatch,
-  title={OmniPatch: A Universal Adversarial Patch for ViT-CNN Cross-Architecture Transfer in Semantic Segmentation},
-  author={Aggarwal, Aarush and Tomar, Akshat and Goyal, Sargam and Tiwari, Amritanshu},
-  booktitle={ICLR 2026 Workshop: Principled Design for Trustworthy AI},
-  year={2026}
+@inproceedings{
+aggarwal2026omnipatch,
+title={OmniPatch: A Universal Adversarial Patch for ViT-{CNN} Cross-Architecture Transfer in Semantic Segmentation},
+author={Aarush Aggarwal and Akshat Tomar and Amritanshu Tiwari and Sargam Goyal},
+booktitle={ICLR 2026 Workshop on Principled Design for Trustworthy AI - Interpretability, Robustness, and Safety across Modalities},
+year={2026},
+url={https://openreview.net/forum?id=D3WtUMY6eT}
 }
-``` -->
+``` 
